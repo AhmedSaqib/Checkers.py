@@ -1,0 +1,7 @@
+*.o
+.vscode
+peer
+make-chunks
+test_debug
+.DS_Store
+test_input_buffer
